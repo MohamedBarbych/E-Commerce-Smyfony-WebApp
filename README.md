@@ -7,7 +7,7 @@ Welcome to the **E-Commerce Website** repository! This project is a fully functi
 ## 🚀 Features
 
 ### 🛍️ Product Listing
-- View a wide range of products with detailed information .
+- View a wide range of products with detailed information.
 - Seamless product search for easy navigation.
 
 ### 🛒 Shopping Cart
