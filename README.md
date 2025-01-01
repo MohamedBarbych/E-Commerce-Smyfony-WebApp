@@ -13,7 +13,7 @@ Welcome to the **E-Commerce Website** repository! This project is a fully functi
 ### 🛒 Shopping Cart
 - Add items to your cart.
 - Update or remove items effortlessly.
-- View total costs in real-time.
+- View total costs in real time.
 
 ### 🔒 User Authentication
 - Secure user registration and login system.
@@ -36,7 +36,7 @@ Welcome to the **E-Commerce Website** repository! This project is a fully functi
 - **Database**:  
   - MySQL  
   
-
+                   
 ---
 
 ## 🛠️ Installation and Setup
@@ -48,5 +48,5 @@ Follow these steps to set up the project locally:
    git clone https://github.com/your-username/e-commerce-website.git
    cd e-commerce-website
 
-
+        
 
