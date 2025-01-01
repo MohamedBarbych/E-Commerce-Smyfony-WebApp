@@ -1,20 +1,20 @@
 # 🌐 E-Commerce Website
 
-Welcome to the **E-Commerce Website** repository! This project is a fully functional e-commerce platform built using modern web technologies. It demonstrates key features essential for any online store, including product listing, shopping cart, and user authentication.
+Welcome to the **E-Commerce Website** repository! This project is a fully functional e-commerce platform built using modern web technologies. It demonstrates key features for any online store, including product listing, shopping cart, and user authentication.
 
 ---
 
 ## 🚀 Features
 
 ### 🛍️ Product Listing
-- View a wide range of products with detailed information.
+- View a wide range of products with detailed information .
 - Seamless product search for easy navigation.
 
 ### 🛒 Shopping Cart
 - Add items to your cart.
 - Update or remove items effortlessly.
 - View total costs in real time.
-
+                       
 ### 🔒 User Authentication
 - Secure user registration and login system.
 - Password encryption for data safety.
